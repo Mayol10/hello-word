@@ -1,2 +1,3 @@
 # hello-word
 A repository is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a README, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. It also offers other common options such as a license file.
+My name is Daniella mayol I was born on April 30 2004 I Live in Purok 1 Cubacub Mandue City My Mother names Rizza Mayol And My Father's name's is Reden Mayol. My hobby is Playing games. Now im studying in Canduman National. 
